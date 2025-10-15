@@ -4,8 +4,8 @@
   
 ### 🦀 Rust Blockchain Developer | Building the Decentralized Future
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xgsvs?style=social)](https://twitter.com/0xgsvs)
+
 
 </div>
 
