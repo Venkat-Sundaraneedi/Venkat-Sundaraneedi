@@ -54,9 +54,8 @@ impl Developer {
 ### Blockchain Ecosystems
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Polkadot](https://img.shields.io/badge/-Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
-![Cosmos](https://img.shields.io/badge/-Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
-![Substrate](https://img.shields.io/badge/-Substrate-000000?style=for-the-badge&logo=parity-substrate&logoColor=white)
+![Base](https://img.shields.io/badge/-Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
+![Aptos](https://img.shields.io/badge/-Aptos-000000?style=for-the-badge&logoColor=white)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +75,7 @@ impl Developer {
 
 🤝 **Looking for:** Opportunities to collaborate on innovative blockchain projects
 
-📫 **Reach me:** your.email@example.com
+📫 **Reach me:** venkat.subrahmanyam.34@gmail.com
 
 ---
 
